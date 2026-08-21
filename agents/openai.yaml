@@ -1,0 +1,4 @@
+interface:
+  display_name: "BI Analysis Image Builder"
+  short_description: "Build and validate bioinformatics container images"
+  default_prompt: "Use $bi-analysis-image-builder to design, build, and validate a bioinformatics analysis container image."
